@@ -18,7 +18,7 @@ Opti-PNG is an image optimization tool that enables bulk resizing, compression, 
 
 ## Usage
 
-1. Download the latest release from the [Releases](https://github.com/your-username/opti-png/releases) page.
+1. Download the latest release from the [Releases](https://github.com/studiobloom/opti-png/releases) page.
 2. Extract the contents of the release package.
 3. Run the `opti-png.exe` executable.
 4. Choose the directory containing the images you want to optimize.
@@ -30,7 +30,7 @@ Opti-PNG is an image optimization tool that enables bulk resizing, compression, 
 
 ## Credits
 
-Opti-PNG is created by John Large (aka bloom) and is available at [GitHub](https://github.com/your-username/opti-png). Visit the [website](https://studiobloom.xyz) for more information and updates.
+Opti-PNG is created by John Large (aka bloom) and is available at [GitHub](https://github.com/studiobloom/opti-png). Visit the [website](https://studiobloom.xyz) for more information and updates.
 
 ## License
 
